@@ -1,0 +1,10 @@
+{
+  "description": "WAYPOINT offers a sophisticated café experience for travelers, promoting responsible breaks with premium coffee and a calming environment to refresh before continuing their journey.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
